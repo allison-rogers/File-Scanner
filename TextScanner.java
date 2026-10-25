@@ -1,4 +1,4 @@
-//This homework takes a text file of quiz answers (Also included in the repository), scans the student's answers, and outputs their grade
+//This homework takes a .txt file of quiz answers (P22Data.txt in the repository), scans the student's answers, and outputs their grade
 
 import java.io.*;
 import java.util.*;
